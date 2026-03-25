@@ -66,23 +66,24 @@ current flows through its emitter generating the voltage across the resistance c
 ---
 
 ## BLOCK DIAGRAM
-<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/82873f57-1ff7-43ef-a048-16ef213f35e9" />
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/82873f57-1ff7-43ef-a048-16ef213f35e9" />
 
 ---
 
 
 ## TABULATION  
 **Transmission through Analog Link**
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1609ad4f-8c3f-4a15-95ac-986dc3e04245" />
+<BR><BR>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1609ad4f-8c3f-4a15-95ac-986dc3e04245" />
 
 ---
 
 ## MODEL GRAPH
-<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/1db08310-82c1-49e4-bfea-eb52b35c9800" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/1db08310-82c1-49e4-bfea-eb52b35c9800" />
 
 ---
 ## GRAPH
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/67ee8c4f-018e-4d0d-bd99-355bb991363b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/67ee8c4f-018e-4d0d-bd99-355bb991363b" />
 
 ---
 ## RESULT
