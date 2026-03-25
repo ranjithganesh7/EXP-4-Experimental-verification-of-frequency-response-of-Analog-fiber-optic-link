@@ -1,4 +1,3 @@
-
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
@@ -66,8 +65,8 @@ current flows through its emitter generating the voltage across the resistance c
 
 ---
 
-## BLOCK DIAGR
-
+## BLOCK DIAGRAM
+<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/82873f57-1ff7-43ef-a048-16ef213f35e9" />
 
 ---
 
@@ -82,11 +81,9 @@ current flows through its emitter generating the voltage across the resistance c
 ---
 
 ## MODEL GRAPH
-
-*(Insert model graph here)*
+<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/1db08310-82c1-49e4-bfea-eb52b35c9800" />
 
 ---
 
 ## RESULT
-
-*(Summarize observations and conclusions here)*
+The frequency response of the 660nm analog fiber optic link was successfully verified, showing a 3dB cutoff frequency beyond which the signal attenuation increases significantly.
